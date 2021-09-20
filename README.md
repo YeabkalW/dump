@@ -1,1 +1,1 @@
-this is a systems devolopment script 
+this script will show the current working directory
